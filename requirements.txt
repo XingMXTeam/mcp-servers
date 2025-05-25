@@ -1,0 +1,6 @@
+fastmcp>=2.5.1
+httpx
+websockets
+pillow
+playwright
+xhs
